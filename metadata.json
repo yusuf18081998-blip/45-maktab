@@ -1,0 +1,6 @@
+{
+  "name": "SchoolDirect: 45-maktab Murojaat va So‘rovlar Tizimi",
+  "description": "45-sonli maktab o‘quvchilari va ma'muriyati uchun dars jadvali, dars jarayoni va takliflar bo‘yicha murojaat platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
